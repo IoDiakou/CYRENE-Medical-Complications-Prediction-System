@@ -1,5 +1,5 @@
 # CYRENE-Medical-Complications-Prediction-System
-A multilabel classification system for the prediction of medical complications of patients with myocardial infarction
+A multilabel classification system for the prediction of medical complications of patients with myocardial infarction.
 
 CYRENE is a sample of a predictive system in service and support of a medical professional. It allows the prediction of complications for patients who have suffered a myocardial infarction, in the context of personalized medicine and efficient patient managemenet in the hospital.
 
