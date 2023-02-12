@@ -2,3 +2,4 @@ streamlit==1.18.1
 numpy==1.24.2
 streamlit-extras==0.2.6
 scikit-learn==1.2.0
+xgboost==1.7.3
