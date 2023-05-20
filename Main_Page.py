@@ -18,7 +18,7 @@ with st.sidebar:
 
 
 #st.markdown("<h1 style='text-align: center; color: black;'>Heart attack complications prediction</h1>", unsafe_allow_html=True)
-st.markdown("<h2 style='text-align: center; color: black;'>CYRENE: Σύστημα πρόβλεψης ιατρικών επιπλοκών για ασθενείς με έμφραγμα</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: black;'>CYRENE: Heart Attack Complications Prediction System</h2>", unsafe_allow_html=True)
 st.markdown("***")
 
 explain = st.button("Πώς λειτουργεί το CYRENE;", type='primary', use_container_width=True)
